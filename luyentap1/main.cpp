@@ -65,7 +65,7 @@ int main() {
     int kichThuoc = 7;
     int max;
 
-    printf("\n=== BAI 5: Tim gia tri lon nhat ===\n");
+    printf("\n BAI 5: Tim gia tri lon nhat \n");
 
     printf("Mang: ");
     for (int i = 0; i < kichThuoc; i++) {
