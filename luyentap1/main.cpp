@@ -44,7 +44,7 @@ int main() {
 
     float a, b, x;
 
-    printf("\n BAI 4: Giai phuong trinh bac 1 (ax + b = 0) \n");
+    printf("\n Bai 4: Giai phuong trinh bac 1 (ax + b = 0) \n");
     printf("Nhap a: ");
     scanf("%f", &a);
     printf("Nhap b: ");
@@ -65,7 +65,7 @@ int main() {
     int kichThuoc = 7;
     int max;
 
-    printf("\n BAI 5: Tim gia tri lon nhat \n");
+    printf("\n Bai 5: Tim gia tri lon nhat \n");
 
     printf("Mang: ");
     for (int i = 0; i < kichThuoc; i++) {
@@ -86,7 +86,7 @@ int main() {
 
     int thu;
 
-    printf("\n BAI 6: In thu trong tuan \n");
+    printf("\n Bai 6: In thu trong tuan \n");
     printf("Nhap so tu 1 den 7: ");
     scanf("%d", &thu);
 
@@ -105,7 +105,7 @@ int main() {
     int soHang;
     long long S = 0;   // dung long long de chua so rat lon
 
-    printf("\n=== BAI 7: Tinh tong S = 1 + 2 + ... + n ===\n");
+    printf("\n Bai 7: Tinh tong S = 1 + 2 + ... + n \n");
     printf("Nhap n: ");
     scanf("%d", &soHang);
 
