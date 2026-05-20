@@ -5,7 +5,7 @@ int main() {
 
     int n;
 
-    printf("BAI 1: Kiem tra chan le \n");
+    printf("Bai 1: Kiem tra chan le \n");
     printf("Nhap mot so: ");
     scanf("%d", &n);
 
@@ -19,7 +19,7 @@ int main() {
 
     float W, H, dienTich;
 
-    printf("\n BAI 2: Tinh dien tich \n");
+    printf("\n Bai 2: Tinh dien tich \n");
     printf("Nhap chieu rong W: ");
     scanf("%f", &W);
     printf("Nhap chieu cao H: ");
@@ -31,7 +31,7 @@ int main() {
 
     int soNhap;
 
-    printf("\n BAI 3: Dem nguoc tu n xuong 1 \n");
+    printf("\n Bai 3: Dem nguoc tu n xuong 1 \n");
     printf("Nhap n: ");
     scanf("%d", &soNhap);
 
